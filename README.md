@@ -11,7 +11,7 @@ MCC FatFs library v1.1.0
 
 Hardware :    
 HPC Curiosity board with PIC18F46K42 (ref DM164136 from Microchip),
-microSD Click (ref 924 from Mikroelektronika)
+microSD Click (ref 924 from Mikroelektronika) plugged into the socket 1
 uSD card 2GB and 8GB formated with FAT32
 
 The project attached demonstrate how to create a text file and write a couple of sentences in it.
