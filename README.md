@@ -2,11 +2,11 @@
 This C based SDcard file system for 8 bits PICs is based on the FatFs file system open source project : http://elm-chan.org/fsw/ff/00index_e.html
 
 It has been tested in the following environment :
+
 Software : 
 MPLAB X v5.45 IDE,
 XC8 v2.31 C compiler,
-MCC plugin for MPLAB X v4.0.2  with
-Core v5.0.2
+MCC plugin for MPLAB X v4.0.2  with Core v5.0.2
 MCC FatFs library v1.1.0
 
 Hardware :    
