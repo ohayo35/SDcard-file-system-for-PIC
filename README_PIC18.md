@@ -6,13 +6,13 @@ It has been tested in the following environment :
 Software : 
 MPLAB X v5.45 IDE,
 XC8 v2.31 C compiler,
-MCC plugin for MPLAB X v4.0.2  with Core v5.0.2
-MCC FatFs library v1.1.0
+MCC plugin for MPLAB X v4.0.2  with Core v5.0.2,
+MCC FatFs library v1.1.0,
 
 Hardware :    
 HPC Curiosity board with PIC18F46K42 (ref DM164136 from Microchip),
-microSD Click (ref 924 from Mikroelektronika) plugged into the socket 1
-uSD card 2GB and 8GB formated with FAT32
+microSD Click (ref 924 from Mikroelektronika) plugged into the socket 1,
+uSD card 2GB and 8GB formated with FAT32.
 
 The project attached demonstrate how to create a text file and write a couple of sentences in it.
 The microSD card can then be easily read on a PC as it uses a standard file system (FAT32)
